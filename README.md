@@ -33,7 +33,7 @@ No external libraries are required; NovaEdit uses only the Python standard libra
 1. Clone the repository:
 
     ```bash
-    git clone [https://github.com/carb0ned0/NovaEdit.git](https://github.com/carb0ned0/NovaEdit.git)
+    git clone https://github.com/carb0ned0/NovaEdit.git
     cd NovaEdit
     ```
 
