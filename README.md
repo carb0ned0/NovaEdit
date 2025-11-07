@@ -57,6 +57,8 @@ python NovaEdit.py [filename]
 
 If filename doesn't exist, it will be created on save.
 
+![CLI Screenshot](/img/CLI.png)
+
 ### GUI Mode
 
 To launch the graphical, tabbed editor:
@@ -70,6 +72,8 @@ You can also open a specific file directly in the GUI:
 ```bash
 python NovaEdit.py [filename] --gui
 ```
+
+![GUI Screenshot](/img/GUI.png)
 
 ## Key Bindings and Features
 
